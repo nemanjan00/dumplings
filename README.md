@@ -1,5 +1,7 @@
 # Dumplings
 
+My ChipWhisperer Husky likes to eat dumplings — so here are some.
+
 Voltage glitching attack scripts for bypassing debug protection on microcontrollers, using a [ChipWhisperer Husky](https://www.newae.com/chipwhisperer) as the glitch platform.
 
 ## Targets

@@ -162,3 +162,7 @@ You should see `AP lock engaged` and `Debug access is denied` in the output.
 | `databases/` | SQLite databases with experiment results |
 | `execution.log` | Execution log |
 | `nrf52_dumped.bin` | Dumped flash (1MB, created on success) |
+
+## Credits
+
+- [NRF52 Debug Resurrection (APPROTECT Bypass)](https://limitedresults.com/results/nrf52-debug-resurrection-approtect-bypass) — original research by LimitedResults

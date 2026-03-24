@@ -15,7 +15,10 @@ The NRF52840's APPROTECT mechanism disables SWD debug access to protect firmware
 
 - **ChipWhisperer Husky** — glitch generation (crowbar MOSFET) and trigger
 - **Segger J-Link V9** — SWD debug probe for reading flash via OpenOCD
-- **NRF52840 target board** — device under test with APPROTECT enabled
+- **NRF52840 target board** — tested with V1940 Pro Micro NRF52840 Development Board
+
+![Board front](images/board-front.jpg)
+![Board back](images/board-back.jpg)
 
 ## Wiring
 

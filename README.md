@@ -26,3 +26,7 @@ pip install -r requirements.txt
 ```
 
 Then pick a target and follow its README for hardware setup and usage.
+
+## Credits
+
+- [findus](https://fault-injection-library.readthedocs.io/en/latest/overview/) — fault injection library used for glitcher control and experiment management
